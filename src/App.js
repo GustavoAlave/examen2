@@ -5,9 +5,12 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+          Nuevo React 10/11/2023
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Instituto Honorio Delgado Espinoza <br></br>
+          Berly Gustavo Alave Alave <br></br>
+          Turno Dia
         </p>
         <a
           className="App-link"
